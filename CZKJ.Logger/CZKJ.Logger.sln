@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CZKJ.Logger", "CZKJ.Logger\CZKJ.Logger.csproj", "{DF5274F9-F395-4C2E-AB5A-C6E6C5E72246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5274F9-F395-4C2E-AB5A-C6E6C5E72246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5274F9-F395-4C2E-AB5A-C6E6C5E72246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5274F9-F395-4C2E-AB5A-C6E6C5E72246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5274F9-F395-4C2E-AB5A-C6E6C5E72246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDF076F6-4948-438A-A8B4-B9F2047BAAD5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+E:\Cui\CZKJ.Logger\CZKJ.Logger\bin\Debug\netcoreapp2.1\CZKJ.Logger.deps.json
+E:\Cui\CZKJ.Logger\CZKJ.Logger\bin\Debug\netcoreapp2.1\CZKJ.Logger.dll
+E:\Cui\CZKJ.Logger\CZKJ.Logger\obj\Debug\netcoreapp2.1\CZKJ.Logger.csprojAssemblyReference.cache
+E:\Cui\CZKJ.Logger\CZKJ.Logger\obj\Debug\netcoreapp2.1\CZKJ.Logger.csproj.CoreCompileInputs.cache
+E:\Cui\CZKJ.Logger\CZKJ.Logger\obj\Debug\netcoreapp2.1\CZKJ.Logger.AssemblyInfoInputs.cache
+E:\Cui\CZKJ.Logger\CZKJ.Logger\obj\Debug\netcoreapp2.1\CZKJ.Logger.AssemblyInfo.cs
+E:\Cui\LoggerDemo\CZKJ.Logger\CZKJ.Logger\bin\Debug\netcoreapp2.1\CZKJ.Logger.deps.json
+E:\Cui\LoggerDemo\CZKJ.Logger\CZKJ.Logger\bin\Debug\netcoreapp2.1\CZKJ.Logger.dll
+E:\Cui\LoggerDemo\CZKJ.Logger\CZKJ.Logger\bin\Debug\netcoreapp2.1\CZKJ.Logger.pdb
+E:\Cui\LoggerDemo\CZKJ.Logger\CZKJ.Logger\obj\Debug\netcoreapp2.1\CZKJ.Logger.csprojAssemblyReference.cache
+E:\Cui\LoggerDemo\CZKJ.Logger\CZKJ.Logger\obj\Debug\netcoreapp2.1\CZKJ.Logger.csproj.CoreCompileInputs.cache
+E:\Cui\LoggerDemo\CZKJ.Logger\CZKJ.Logger\obj\Debug\netcoreapp2.1\CZKJ.Logger.AssemblyInfoInputs.cache
+E:\Cui\LoggerDemo\CZKJ.Logger\CZKJ.Logger\obj\Debug\netcoreapp2.1\CZKJ.Logger.AssemblyInfo.cs
+E:\Cui\LoggerDemo\CZKJ.Logger\CZKJ.Logger\obj\Debug\netcoreapp2.1\CZKJ.Logger.dll
+E:\Cui\LoggerDemo\CZKJ.Logger\CZKJ.Logger\obj\Debug\netcoreapp2.1\CZKJ.Logger.pdb
